@@ -1,12 +1,10 @@
 *{
 	margin: 0px;
 	padding: 0px;
-	
+	background-color: red;
 }
 img{
 width: 100px;
 height: 100px;
 }
-body{
-	background-color: red;
-}
+
